@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://img.icons8.com/?size=100&id=Tb2Gc2HE05aa&format=png&color=000000" alt="Software Icon"/>
+  <img src="https://github.com/DwaipayanDutta/AutoInstaller/blob/main/Installer/settings.png" alt="Software Icon" width="100" height="100"/>
 
   
 </p>
